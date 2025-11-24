@@ -1,6 +1,6 @@
 class Y2MateZZDownloader {
     constructor() {
-        this.backendUrl = 'https://your-railway-app.up.railway.app'; // Replace with your Railway URL
+        this.backendUrl = 'y2matezz-production.up.railway.app'; // Replace with your Railway URL
         this.currentVideoData = null;
         this.init();
     }
